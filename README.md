@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p4priyasharma
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning different technologies.
 - 💞️ I’m looking to collaborate on different projects.
 
 
